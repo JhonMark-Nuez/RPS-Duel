@@ -1,4 +1,4 @@
 function love.conf(t)
-    t.window.title = "RPS Dual"
+    t.window.title = "RPS Duel"
     
 end

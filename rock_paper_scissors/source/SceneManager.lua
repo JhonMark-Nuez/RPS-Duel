@@ -4,7 +4,7 @@ function Scene_Manager:drawLoad(name)
     name()
 end
 
-function Scene_Manager:updateLoad(name)
+function Scene_Manager:updateLoad(name, dt)
     name(dt)
 end
 
